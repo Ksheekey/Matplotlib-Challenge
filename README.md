@@ -8,4 +8,6 @@ I re-did the matplot classes entirely over and over and joined study groups but 
 
 my commits are lower this week, I spent all my time studying this week then tried to knock it out in a couple goes, and being it was demanding I was just into the work and forgot to periodically commit. I'll work on it!
 
+I moved a pie chart down. I got confused and wanted to show this data but figured it had to be moved down. I wanted to show the data broken up by Sex even more once I started seeing outputs. Throw it away if you want but I wanted to see it myself so figured id leave it. Sorry if its a burden.
+
 Have a good weekend/week depening on when you read this. 
