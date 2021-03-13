@@ -1,5 +1,7 @@
 # Matplotlib-Challenge
 
+Here this is done and resubmitted. Thank you very much for helping me understand what it was that needed to be done. I have faith I got it all squared away. 
+
 This one took me the longest yet and I think that will soon be a trend!
 
 I got confused with some of the instructions on the page itself but tried my best to follow and produce the correct outputs. I hope most of my outputs are correct, if not I hope they at least show I understand the majority of what needs to be done even if my produced data wasnt perfect. And if it wasn't anywhere close to right.. i'm definitely one for constructive criticism. 
